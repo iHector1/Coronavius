@@ -1,0 +1,82 @@
+{
+  "configVersion": 1,
+  "timestamp": 1591486510244,
+  "index": "https://ihector1.github.io/Coronavius/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://ihector1.github.io/Coronavius/favicon.ico",
+        "https://ihector1.github.io/Coronavius/index.html",
+        "https://ihector1.github.io/Coronavius/main-es2015.b757b01e99622c1b0f8e.js",
+        "https://ihector1.github.io/Coronavius/main-es5.b757b01e99622c1b0f8e.js",
+        "https://ihector1.github.io/Coronavius/manifest.webmanifest",
+        "https://ihector1.github.io/Coronavius/polyfills-es2015.690002c25ea8557bb4b0.js",
+        "https://ihector1.github.io/Coronavius/polyfills-es5.9e286f6d9247438cbb02.js",
+        "https://ihector1.github.io/Coronavius/runtime-es2015.1eba213af0b233498d9d.js",
+        "https://ihector1.github.io/Coronavius/runtime-es5.1eba213af0b233498d9d.js",
+        "https://ihector1.github.io/Coronavius/styles.4c29472df4a60c5988fb.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://ihector1.github.io/Coronavius/assets/icons/icon-128x128.png",
+        "https://ihector1.github.io/Coronavius/assets/icons/icon-144x144.png",
+        "https://ihector1.github.io/Coronavius/assets/icons/icon-152x152.png",
+        "https://ihector1.github.io/Coronavius/assets/icons/icon-192x192.png",
+        "https://ihector1.github.io/Coronavius/assets/icons/icon-384x384.png",
+        "https://ihector1.github.io/Coronavius/assets/icons/icon-512x512.png",
+        "https://ihector1.github.io/Coronavius/assets/icons/icon-72x72.png",
+        "https://ihector1.github.io/Coronavius/assets/icons/icon-96x96.png",
+        "https://ihector1.github.io/Coronavius/assets/img/coronavirus.jpg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://ihector1.github.io/Coronavius/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://ihector1.github.io/Coronavius/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://ihector1.github.io/Coronavius/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://ihector1.github.io/Coronavius/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://ihector1.github.io/Coronavius/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://ihector1.github.io/Coronavius/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://ihector1.github.io/Coronavius/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://ihector1.github.io/Coronavius/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://ihector1.github.io/Coronavius/assets/img/coronavirus.jpg": "7c710433c9a88970324d31a67bc80b5b1aea6f5d",
+    "https://ihector1.github.io/Coronavius/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://ihector1.github.io/Coronavius/index.html": "ad7c1e0b14a9ede94b2428771b25ab35babf2036",
+    "https://ihector1.github.io/Coronavius/main-es2015.b757b01e99622c1b0f8e.js": "8342467c99b79fbea2cd98192cbe09d3837c7f27",
+    "https://ihector1.github.io/Coronavius/main-es5.b757b01e99622c1b0f8e.js": "8509724e3d282cad60149b4c3ec660f237cfd5a6",
+    "https://ihector1.github.io/Coronavius/manifest.webmanifest": "0d8f9b03b4b66f27b7775b7dabd60d48ddce4151",
+    "https://ihector1.github.io/Coronavius/polyfills-es2015.690002c25ea8557bb4b0.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
+    "https://ihector1.github.io/Coronavius/polyfills-es5.9e286f6d9247438cbb02.js": "8aa26ea87b9958c6bd13b7c257c0e9940438e684",
+    "https://ihector1.github.io/Coronavius/runtime-es2015.1eba213af0b233498d9d.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://ihector1.github.io/Coronavius/runtime-es5.1eba213af0b233498d9d.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://ihector1.github.io/Coronavius/styles.4c29472df4a60c5988fb.css": "8def20df18f4a0e1445f09ef7066b630c5a7bdb6"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
